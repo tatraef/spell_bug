@@ -1,0 +1,10 @@
+#arb-dir: packages/app/assets/l10n
+#template-arb-file: app_ru.arb
+#output-localization-file: app_localizations.dart
+#output-dir: packages/app/lib/src/gen/l10n
+#output-class: AppLocalizations
+#synthetic-package: false
+
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
